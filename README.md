@@ -1,2 +1,3 @@
-# Tech-Hut-Fronted-One
+# The Tech Hut: Frontend One
+
 First Frontend Task
